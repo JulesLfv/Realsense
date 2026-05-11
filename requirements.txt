@@ -1,0 +1,15 @@
+# Core numerical/geometry stack
+numpy>=1.26
+scipy>=1.11
+trimesh>=4.0
+
+# 3D visualisation UI
+PyQt6>=6.6
+pyvista>=0.43
+pyvistaqt>=0.11
+vtk>=9.2
+
+# RealSense acquisition
+pyrealsense2>=2.55
+open3d>=0.18
+opencv-python>=4.8
